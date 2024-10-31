@@ -27,3 +27,22 @@ function abc() {
 function xyz() {
     console.log('abx');
 }
+// -----
+// null
+var r;
+// r = 369; // error obv
+// Union 
+var s;
+s = 'shukla';
+s = null;
+// s =56; // error
+// also rmbr ':' is used to set the datatype, while '=' is used for assigning the value to the declared variable and the the variable is declared using let cont or var, but obv let is preferred.
+// -----
+var c;
+// -----
+function pqrs() {
+    while (true) {
+    }
+}
+pqrs();
+console.log(pqrs);
