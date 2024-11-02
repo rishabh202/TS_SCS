@@ -1,13 +1,14 @@
 // classes & objects
 // class definition 
-// constructions 
+// Constructors
 // Access modifiers (public, private, protected)
-// readonly properties 
-// optional properties 
-// parameter properties 
-// Getters and setters 
-// Static members 
+// readonly properties
+// optional properties
+// parameter properties
+// Getters and setters
+// Static members
 // Abstract classes and methods 
+
 
 
 class Device{

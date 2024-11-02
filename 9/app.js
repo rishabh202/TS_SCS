@@ -1,6 +1,6 @@
 // classes & objects
 // class definition 
-// constructions 
+// constructors 
 // Access modifiers (public, private, protected)
 // readonly properties 
 // optional properties 
