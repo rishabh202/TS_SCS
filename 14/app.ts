@@ -1,5 +1,4 @@
 // readonly properties
-// optional properties
 
 class User{
     constructor(public readonly name:string){
