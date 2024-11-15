@@ -1,7 +1,7 @@
 // Functions
 // Functions types
 // Optional and default parameters
-// Reset parameters
+// Rest parameters
 // Overloads
 
 // Functions are obv when we want to use certain codes only when needed at certain points.
