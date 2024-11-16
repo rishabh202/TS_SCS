@@ -1,5 +1,6 @@
 // Any, unknown, void and more
 
+
 // how to declare types: | but ts automatically sets the datatype with the value assigned to it.
 let a: number;
 a = 63;
