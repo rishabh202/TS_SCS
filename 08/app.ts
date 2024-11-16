@@ -55,6 +55,7 @@ type Employee = {
     email: string
 }
 
+
 type HR =  Employee & {
     getDetails(user: string): void
 }
