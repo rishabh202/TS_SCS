@@ -6,6 +6,7 @@ let a: number;
 let b = 65;  // This is called inference. automatically sets the datatype, by observing the data
 let c = "36";
 
+
 // Annoations simply means ki "what" like for eg
 let x: number | string | boolean;
 x = 89;
