@@ -4,4 +4,5 @@ console.log(a);
 
 // let arr: number[] = [2,89,56, 'rus'];  //throws error obv
 
+
 let arr: number[] = [23 ,425,];  
