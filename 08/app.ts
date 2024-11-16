@@ -14,6 +14,7 @@ function abc(obj: Admin) {
 }
 
 
+
 // see two interfaces of the same name are merged and one interface is formed of them. It does not overwrites but merges
 interface xyz {
     name: string;
