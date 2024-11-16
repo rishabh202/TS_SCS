@@ -1,6 +1,7 @@
 // Tuples
 // Js does not have tuples
 
+
 let arr: [number, string] = [369, 'shukla'];
 // let arr1: [string, object] = ['shukla' ]; // error
 let arr2: [number, object] = [369, {surname: 'shukla'}];
