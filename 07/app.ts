@@ -7,6 +7,7 @@ function abx(a: number, d: string){
  // d.
 };
 
+
 interface User {
     name: string;
     age: number;
