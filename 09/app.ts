@@ -11,6 +11,7 @@
 
 
 
+
 class Device{
     name = 'lg';
     price = 12000;
